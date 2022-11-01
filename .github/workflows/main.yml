@@ -1,7 +1,3 @@
-EasyLearnia
-پین‌شده توسط EasyLearnia
-EasyLearnia
-1 ماه پیش
 name: CI
  
 on: [push, workflow_dispatch]
